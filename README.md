@@ -11,7 +11,7 @@ This program created to symply next typical actions using GUI:
 You need:
 - Linux (Debian, Ubuntu). 
 - Installed ffmpeg (https://ffmpeg.org/download.html).
-- Python 3.8. 
+- Python 3.8 and upper. 
 
 </br>
 
